@@ -5,7 +5,7 @@
 //|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2025, Lawjar-EA"
-#property link      "https://github.com/lawjar/GMRemake"
+#property link      "https://github.com/lawjar/GMRemake-EA"
 #property version   "1.00"
 #property strict
 
