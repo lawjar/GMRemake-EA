@@ -78,11 +78,11 @@ GMRemake 是一個進階的馬丁格爾 Expert Advisor (EA)。它實作了多層
 
 ## 安裝說明
 
-1. 下載 `MT4/Experts/GMRemake_Martingale_EA.mq4` 檔案。
+1. 下載 `MT4/Experts/GMRemake.mq4` 檔案。
 2. 開啟 MT4 平台，點擊「文件」→「打開數據文件夾」。
 3. 進入 `MQL4` → `Experts` 資料夾，將檔案貼上。
 4. 回到 MT4，在「導航器」面板右鍵點擊「刷新」。
-5. 將 `GMRemake_Martingale_EA` 拖曳到圖表上即可使用。
+5. 將 `GMRemake` 拖曳到圖表上即可使用。
 
 ## 風險警告
 

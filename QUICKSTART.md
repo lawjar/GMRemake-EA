@@ -5,19 +5,19 @@
 ### 步驟 1: 安裝 EA (2 分鐘)
 
 1. **下載 EA 檔案**
-   - 找到 `MT4/Experts/GMRemake_Martingale_EA.mq4`
+   - 找到 `MT4/Experts/GMRemake.mq4`
    - 下載此檔案
 
 2. **安裝到 MT4**
    - 開啟 MetaTrader 4
    - 點擊 `文件 (File)` → `打開數據文件夾 (Open Data Folder)`
    - 進入 `MQL4` → `Experts`
-   - 將 `GMRemake_Martingale_EA.mq4` 複製到此資料夾
+   - 將 `GMRemake.mq4` 複製到此資料夾
    - 回到 MT4，在「導航器 (Navigator)」面板右鍵點擊 `刷新 (Refresh)` (或重啟 MT4)
 
 3. **確認安裝**
    - 在 MT4 導航器面板，展開 `Expert Advisors`
-   - 您應該能看到 `GMRemake_Martingale_EA`
+   - 您應該能看到 `GMRemake`
 
 ### 步驟 2: 首次使用設定 (2 分鐘)
 
@@ -26,7 +26,7 @@
    - 確保您已載入至少 1 年的歷史數據
 
 2. **掛載 EA**
-   - 從導航器將 `GMRemake_Martingale_EA` 拖曳到圖表上
+   - 從導航器將 `GMRemake` 拖曳到圖表上
    - 設定視窗將會出現
 
 3. **使用新手設定**

@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
-//|                                      GMRemake_Martingale_EA.mq4  |
-//|                        Copyright 2025a, GMRemake Martingale EA   |
-//|                      MT4 馬丁格爾交易策略 (Martingale Strategy)   |
+//|                                      GMRemake.mq4                |
+//|                                       Copyright 2025, Lawjar-EA  |
+//|                       MT4 馬丁格爾交易策略 (Martingale Strategy)  |
 //|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2025a, GMRemake Martingale EA"

@@ -5,7 +5,7 @@
 
 ## 已建立檔案
 
-### 1. MT4/Experts/GMRemake_Martingale_EA.mq4
+### 1. MT4/Experts/GMRemake.mq4
 **主要 EA 實作**
 - 完整的 MQL4 Expert Advisor
 - 具備適當錯誤處理的生產級程式碼
