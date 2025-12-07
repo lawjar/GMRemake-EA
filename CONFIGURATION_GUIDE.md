@@ -1,4 +1,4 @@
-# GMRemark Martingale EA - Configuration Guide
+# GMRemake Martingale EA - Configuration Guide
 
 ## Table of Contents
 1. [Quick Start Configuration](#quick-start-configuration)

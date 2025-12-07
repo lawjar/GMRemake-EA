@@ -1,23 +1,23 @@
-# Quick Start Guide - GMRemark Martingale EA
+# Quick Start Guide - GMRemake Martingale EA
 
 ## 5-Minute Setup
 
 ### Step 1: Install the EA (2 minutes)
 
 1. **Download the EA file**
-   - Navigate to `MT4/Experts/GMRemark_Martingale_EA.mq4`
+   - Navigate to `MT4/Experts/GMRemake_Martingale_EA.mq4`
    - Download the file
 
 2. **Install in MT4**
    - Open MetaTrader 4
    - Click `File` → `Open Data Folder`
    - Navigate to `MQL4` → `Experts`
-   - Copy `GMRemark_Martingale_EA.mq4` into this folder
+   - Copy `GMRemake_Martingale_EA.mq4` into this folder
    - Return to MT4 and click `Refresh` in Navigator panel (or restart MT4)
 
 3. **Verify Installation**
    - In MT4 Navigator panel, expand `Expert Advisors`
-   - You should see `GMRemark_Martingale_EA`
+   - You should see `GMRemake_Martingale_EA`
 
 ### Step 2: Configure for First Use (2 minutes)
 
@@ -26,7 +26,7 @@
    - Ensure you have at least 1 year of historical data loaded
 
 2. **Attach the EA**
-   - Drag `GMRemark_Martingale_EA` from Navigator onto the chart
+   - Drag `GMRemake_Martingale_EA` from Navigator onto the chart
    - A settings window will appear
 
 3. **Use Beginner Settings**
@@ -57,7 +57,7 @@
 1. **Check Terminal Window**
    - Open `Terminal` panel (View → Terminal or Ctrl+T)
    - Go to `Experts` tab
-   - You should see: "GMRemark Martingale EA Initialized Successfully"
+   - You should see: "GMRemake Martingale EA Initialized Successfully"
 
 2. **Verify Settings**
    - Check the log for "Max Buy Orders: 3 | Max Sell Orders: 3"
@@ -96,7 +96,7 @@
 
 ### When EA Opens First Order:
 1. You'll see order appear in `Terminal` → `Trade` tab
-2. Order comment will show "GMRemark_Martingale"
+2. Order comment will show "GMRemake_Martingale"
 3. Check open price matches entry logic
 
 ### When Price Moves Against Position:

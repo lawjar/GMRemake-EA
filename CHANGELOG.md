@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the GMRemark Martingale EA project will be documented in this file.
+All notable changes to the GMRemake Martingale EA project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2024-12-07
 
 ### Added
-- Initial release of GMRemark Martingale EA for MT4
+- Initial release of GMRemake Martingale EA for MT4
 - Complete martingale strategy with up to 8 levels
 - Configurable entry distances for each martingale level
 - Independent lot size configuration for each level
@@ -105,7 +105,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Version 1.0.0 - Initial Release
 
-This is the first public release of the GMRemark Martingale EA. The EA has been developed based on the original AlgoX GM concept and includes comprehensive risk management features.
+This is the first public release of the GMRemake Martingale EA. The EA has been developed based on the original AlgoX GM concept and includes comprehensive risk management features.
 
 **What's Working:**
 - All core martingale functionality
@@ -147,7 +147,7 @@ If you discover a security vulnerability in this EA, please send an email to the
 ## Credits
 
 - **Original Concept**: AlgoX GM
-- **Development**: GMRemark Team
+- **Development**: GMRemake Team
 - **Contributors**: See GitHub contributors list
 
 ---

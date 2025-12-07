@@ -1,4 +1,4 @@
-# GMRemark Martingale EA - Logic Flow Diagram
+# GMRemake Martingale EA - Logic Flow Diagram
 
 ## Main Execution Flow
 

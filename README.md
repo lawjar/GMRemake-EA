@@ -75,7 +75,7 @@ Configure the lot size for each martingale level:
 - **Slippage in Points**: Maximum allowed slippage (default: 30 points)
 - **Spread in Points**: Maximum allowed spread (default: 30 points)
 - **Magic Number**: Unique identifier for EA orders (default: 20241207)
-- **Comment**: Custom comment for orders (default: "GMRemark_Martingale")
+- **Comment**: Custom comment for orders (default: "GMRemake_Martingale")
 
 ## Strategy Explanation
 
