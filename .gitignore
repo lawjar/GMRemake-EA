@@ -1,0 +1,48 @@
+# MetaTrader compiled files
+*.ex4
+*.ex5
+
+# MetaTrader log files
+*.log
+
+# MetaTrader backup files
+*.bak
+
+# Temporary files
+*.tmp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+build/
+dist/
+*.zip
+*.rar
+
+# Test results
+backtest_results/
+optimization_results/
+*.htm
+*.html
+
+# User-specific settings
+*.set
+
+# MQL4/MQL5 specific
+tester/
+logs/
