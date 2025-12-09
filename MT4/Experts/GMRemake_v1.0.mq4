@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                                               GMRemake_v1.0.mq4  |
-//|                                       Copyright 2025, Lawjar-EA  |
+//|                                     Copyright 2025, Lawjar-Algo  |
 //|                       MT4 馬丁格爾交易策略 (Martingale Strategy)  |
 //|                                                                  |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2025, Lawjar-EA"
+#property copyright "Copyright 2025, Lawjar-Algo"
 #property link      "https://github.com/lawjar/GMRemake-EA"
 #property version   "1.00"
 #property strict

@@ -23,7 +23,12 @@ Period, Backdata, Insample, Out of Sample, Monte Carlo Simulation, Forward Testi
 
 Trading Strategy, Trading Logic, EA Compose
 Strategy Building: 4 Trading Styles(Mean Reversal, Swing, 動勢交易Momentum, 突破交易Breakout, 趨勢交易Trend Following, 區間交易Range Sideways, Scalping), 4 indicators(entry and exit signals), 4 Betting methods Single獨注(Swing, Breakout, Trend Following), Multiple分注(Gird, Martigle)
-交易產品(1 Product vs multi Markets, characteristics, Volatile Market (波動市) vs Range-bound Market橫行市), 入市(Timeframe, Entry Signal 指標, Signal Filtering), 下注策略(加注, 減注, Drawdown Protection對沖, 價格?+部位?, position sizing), 市場結構(趨勢Trend), 出市(止損, 止盈, Exit Signal, Stop Loss, Trailing Stop), Risk Management (帳面保護 Capital Balance Protection(%)) 
+交易產品(1 Product vs multi Markets, characteristics, Volatile Market (波動市) vs Range-bound Market橫行市), 
+入市 Entry Rules(Timeframe, Entry Signal 指標, Signal Filtering), 
+下注策略(加注, 減注, Drawdown Protection對沖, 價格?+部位?, position sizing), 
+市場結構(趨勢Trend), 
+出市 Exit Rules(止損, 止盈, Exit Signal, Stop Loss, Trailing Stop), 
+Risk Management (帳面保護 Capital Balance Protection(%)) 
 
 Portfolio Diversification
 Multi Markets/Products, Multi Strategy, Multiple Trading Styles (Aggressive vs Conservative)
